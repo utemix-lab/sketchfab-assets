@@ -1,0 +1,4 @@
+# OS and editor detritus do not belong in the public image collection.
+.DS_Store
+Thumbs.db
+desktop.ini
